@@ -35,6 +35,7 @@ ja: &DEFAULT_JA
         icon: fas fa-cube
       - title: "生活鯖"
         desc: "Minecraftサーバーで、生活鯖を運営中！<br>詳しくはDiscordまで"
+        icon: fas fa-cube
   portfolio:
     title: "制作"
     text: "沼Labのプラグイン"
